@@ -1,0 +1,5 @@
+# Add item types to freeze. Must be lowercase. Ex: acacia_planks
+frozen-items: []
+
+# Add custom item names to freeze. Case sensitive. Colored names need to include color codes. Ex: "§eColored Name"
+frozen-item-names: []

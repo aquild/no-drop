@@ -1,0 +1,7 @@
+name: NoDrop
+version: ${project.version}
+main: dev.aquild.nodrop.NoDrop
+api-version: 1.13
+prefix: NoDrop
+authors: [Aquild]
+description: Plugin to prevent dropping of certain items
